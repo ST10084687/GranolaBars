@@ -1,0 +1,8 @@
+C:\Users\crais\source\repos\GranolaBars\GranolaBars\bin\Debug\GranolaBars.exe.config
+C:\Users\crais\source\repos\GranolaBars\GranolaBars\bin\Debug\GranolaBars.exe
+C:\Users\crais\source\repos\GranolaBars\GranolaBars\bin\Debug\GranolaBars.pdb
+C:\Users\crais\source\repos\GranolaBars\GranolaBars\obj\Debug\GranolaBars.csproj.AssemblyReference.cache
+C:\Users\crais\source\repos\GranolaBars\GranolaBars\obj\Debug\GranolaBars.csproj.SuggestedBindingRedirects.cache
+C:\Users\crais\source\repos\GranolaBars\GranolaBars\obj\Debug\GranolaBars.csproj.CoreCompileInputs.cache
+C:\Users\crais\source\repos\GranolaBars\GranolaBars\obj\Debug\GranolaBars.exe
+C:\Users\crais\source\repos\GranolaBars\GranolaBars\obj\Debug\GranolaBars.pdb
